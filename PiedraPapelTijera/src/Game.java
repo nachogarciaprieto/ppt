@@ -1,7 +1,9 @@
 /**
  * Clase principal.
- * VersiÃ³n 1.0
- * Autor: Profesor Entorno Desarrollo
+ * VersiÃ³n 2.0
+ * Autor: José Ignacio García Prieto
+ * Ejercicio tema 9. Torito Sepia.
+ * 
  */
 public class Game {
 
